@@ -17,8 +17,12 @@
 - 自动检测是否已安装了相关环境，没有便会自动下载、安装、配置
 
 注意
-- 安装的 `nodejs` 版本为 [v18.19.0-x64](https://npmmirror.com/mirrors/node/v18.19.0/node-v18.19.0-x64.msi)
-- 配置的 `镜像` 为 [华为镜像](https://mirrors.huaweicloud.com/repository/npm/)
+- `nodejs` [v18.19.0-x64](https://npmmirror.com/mirrors/node/v18.19.0/node-v18.19.0-x64.msi)
+- `npm` v10.2.3
+- `pnpm` v8.15.4
+- `yarn` v1.22.21
+- `镜像`  [华为镜像](https://mirrors.huaweicloud.com/repository/npm/)
+- 默认安装, 即配置上述版本
 - 如果使用本批处理文件, 而造成的后果等, 与本人无关(应该不至于, 插个眼预防一下)...
 
 适用环境
