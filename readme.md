@@ -3,6 +3,7 @@
 ## 1. 基本信息
 
 - 作者: GMCY
+- 系列: Vue
 - 仓库: [GitHub](https://github.com/GMCY2020/Vue-Venv-Fast-Build) | [Gitee](https://gitee.com/GMCY2020/Vue-Venv-Fast-Build)
 - 话题(GitHub): [tools](https://github.com/topics/tools) \ [vue](https://github.com/topics/vue)
 - 创建时间: 2024/03/02
@@ -36,6 +37,8 @@
 ## 4. 使用
 
 - 需联网
+- 解压 `vue-venv-fast-build.zip`
+  （bat文件上传后再下载部分内容被改变,所有使用压缩包压缩）
 - 双击 `vue-venv-fast-build.bat`
 - 然后一直回车即可
 
